@@ -1,0 +1,8 @@
+{
+    "name": "petrescueproject",
+    "version" : "1.00",
+    "main" : "index.html",
+    "dependencies":  {},
+    "keywords" : []
+
+}
